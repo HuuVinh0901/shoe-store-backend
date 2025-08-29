@@ -13,7 +13,7 @@ INSERT INTO permission (name, description, createdAt, updatedAt) VALUES
 ('MANAGE_PRODUCTS', 'Quản lý sản phẩm', NOW(), NOW()),
 ('MANAGE_ORDERS', 'Quản lý đơn hàng', NOW(), NOW()),
 ('VIEW_REPORTS', 'Xem báo cáo', NOW(), NOW()),
-('CREATE_ORDER', 'Tạo đơn hàng', NOW(), NOW()),
+('CREATE_ORDER', 'Tạo đơn hàng', NOW(), NOW()),users
 ('VIEW_ORDER', 'Xem đơn hàng', NOW(), NOW()),
 ('WRITE_REVIEW', 'Viết đánh giá', NOW(), NOW()),
 ('VIEW_PRODUCTS', 'Xem sản phẩm', NOW(), NOW()),
